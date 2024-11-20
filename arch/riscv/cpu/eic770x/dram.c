@@ -15,7 +15,7 @@ DECLARE_GLOBAL_DATA_PTR;
 
 DECLARE_GLOBAL_DATA_PTR;
 
-/* 2 GB */
+/* 8 GB */
 #define DDR_SIZE_MAX    	0x200000000
 
 /* 128 MB offset */
