@@ -96,15 +96,6 @@
 &cpu0 {
 	status = "okay";
 };
-&cpu1 {
-	status = "okay";
-};
-&cpu2 {
-	status = "okay";
-};
-&cpu3 {
-	status = "okay";
-};
 &plic0{
 	status = "okay";
 };
